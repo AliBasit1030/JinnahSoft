@@ -1,0 +1,7 @@
+{
+  "/contact/page": "app/contact/page.js",
+  "/index-four-page/page": "app/index-four-page/page.js",
+  "/index-one-page/page": "app/index-one-page/page.js",
+  "/page": "app/page.js",
+  "/index-two-page/page": "app/index-two-page/page.js"
+}
